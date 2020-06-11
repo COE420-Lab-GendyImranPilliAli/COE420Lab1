@@ -17,7 +17,8 @@ public class Calculations {
                 System.out.println("The quotient is = " + div);
 		
 		//member_D add the feature of multiplying x by y and print the result
-		
+		int mul = x*y; 
+                System.out.println("The product is = " + mul); 
 		
 	}
 
